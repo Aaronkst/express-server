@@ -1,0 +1,24 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaronkst/express-server.git"
+  },
+  "author": "Khant Si Thu @ Aaron Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaronkst/express-server/issues"
+  },
+  "homepage": "https://github.com/Aaronkst/express-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
