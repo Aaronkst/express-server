@@ -10,8 +10,8 @@ npm start
 
 ## File structure
 
-Entry point - /index.js_
-Controllers - Functions_
-Middlewares - Middleware Functions_
-Models - Database Tables_
+Entry point - /index.js <br />
+Controllers - Functions <br />
+Middlewares - Middleware Functions <br />
+Models - Database Tables <br />
 Routes - Function and URL Endpoint mapping
